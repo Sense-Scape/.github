@@ -1,3 +1,3 @@
 # Sense-Scape
 
-Add a little blurb about the org
+Attempting to leverage the intersection of advanced digital signal processing techniques and IOT capabilities to create the next generation of smart sensing systems.  
