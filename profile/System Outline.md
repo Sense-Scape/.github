@@ -2,6 +2,8 @@
 
 ## Block Diagram
 
+Note: press `ctrl` + `click` to open repositories
+
 ``` mermaid
   graph TD;
   Windows_Simulator-->Windows_Processing_Server;
