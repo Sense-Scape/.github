@@ -1,4 +1,4 @@
-# System Outline
+\# System Outline
 
 ## Block Diagram
 
