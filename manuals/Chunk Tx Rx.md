@@ -18,3 +18,14 @@ flowchart TD
   D --> |yes| C[Increment Sequence Number]
   C --> A
 ```
+TCP Transmissions
+
+{ | DataHeaderSize [2] | DatagramHeader [23] | Data | }
+
+Data Storage (example)
+
+{ | BaseChunk | JSONChunk | }  
+
+==> BaseChunk = { [ 2 ] [ 1 * (n_source_identifier)] }
+				
+==> JSONChunk = { [ 2 ] [x] }
