@@ -1,8 +1,5 @@
 # Sense-Scape
 
-Attempting to leverage the intersection of advanced digital signal processing techniques and IOT capabilities to create the next generation of smart sensing systems.  
-
-
 ## Organisation Summaries
 - Our [repositories](https://github.com/orgs/Sense-Scape/repositories) here
 - Our [documentation](https://github.com/Sense-Scape/.github) root directory
