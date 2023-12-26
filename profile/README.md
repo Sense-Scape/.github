@@ -1,19 +1,22 @@
 # Sense-Scape
 
+## Summary
+
 An audio streaming platform which recieves data from multiple remote sensors, stores the data and forwareds it to a pretty Svelte UI
 
 ## System Overview
 
 ``` mermaid
-graph TD; 
+graph LR; 
 
-Sensor1 --TCP--> ProcessingServer
-Sensor2 --TCP--> ProcessingServer
-Sensor3 --TCP--> ProcessingServer
+AudioSensor1 ---> ProcessingServer
+AudioSensor2 ---> ProcessingServer
+AudioSensor3 ---> ProcessingServer
 
-ProcessingServer --TCP-->GoTCPWebSocketAdapter
+ProcessingServer --->GoTCPWebSocketAdapter
 ProcessingServer --> AudioStorage
-GoTCPWebSocketAdapter --WebSocket-->SvelteKitUI
+
+GoTCPWebSocketAdapter --->SvelteKitUI
 
 ```
 
