@@ -2,7 +2,7 @@
 
 ## Summary
 
-An audio streaming platform which recieves data from multiple remote sensors, stores the data and forwareds it to a pretty Svelte UI
+An audio streaming platform which receives data from multiple audio sensors, stores the data and forwards it to a pretty Svelte UI
 
 ## System Overview
 
