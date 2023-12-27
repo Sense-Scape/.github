@@ -11,7 +11,7 @@ graph LR;
 
 AudioSensor1 ---> ProcessingServer
 AudioSensor2 ---> ProcessingServer
-AudioSensor3 ---> ProcessingServer
+AudioSimulator1 ---> ProcessingServer
 
 ProcessingServer --->GoTCPWebSocketAdapter
 ProcessingServer --> AudioStorage
@@ -19,6 +19,12 @@ ProcessingServer --> AudioStorage
 GoTCPWebSocketAdapter --->SvelteKitUI
 
 ```
+
+- AudioSensor - RasperryPi with Respeaker array which transmits multiple channels of audio data
+- AudioSimulator - Windows simullator which can generate multiple channels with a specific tone and phase offset
+- ProcessingServer - Server which hanfles multiple TCP connections from sensors, write their audio data as WAV and forwards it to the websocket converter
+- GoTCPWebSocketAdapter - Forwards data from server to web front end
+- SvelteKitUI - UI that displays sensor data
 
 ## Organisation Summaries
 - Our [repositories](https://github.com/orgs/Sense-Scape/repositories)
