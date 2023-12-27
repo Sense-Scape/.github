@@ -26,6 +26,17 @@ GoTCPWebSocketAdapter --->SvelteKitUI
 - GoTCPWebSocketAdapter - Forwards data from server to web front end
 - SvelteKitUI - UI that displays sensor data
 
+## Getting Started
+
+Get the most recent releases of the software components. Software releases may be found here: 
+
+- [Windows Simulator](https://github.com/Sense-Scape/Windows_Sensor_Sim/releases)
+- [Processing Server](https://github.com/Sense-Scape/Windows_Proc_Serv/releases)
+- [TCPPWebSocketAdapter](https://github.com/Sense-Scape/Go_TCP_Websocket_Adapter/releases)
+- [Svelte UI](https://github.com/Sense-Scape/Svelte-Website/releases)
+
+Some come with config files and will require one to configure IP addresses and ports - The aim is that this shall come preconfigured but this is not complete at this point.
+
 ## Organisation Summaries
 - Our [repositories](https://github.com/orgs/Sense-Scape/repositories)
 - Our [documentation](https://github.com/Sense-Scape/.github) root directory
