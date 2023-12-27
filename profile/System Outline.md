@@ -1,17 +1,20 @@
 # System Outline
 
-## Block Diagram
+## Summary
 
-Note: press `ctrl` + `click` to open repositories
+This document provides explicit description of each software component used to comprise the Sense-Scape system.
 
-``` mermaid
-  graph TD;
-  Windows_Simulator-->Windows_Processing_Server;
-  ESP32_Acoustic_Sensor-->Windows_Processing_Server;
-  Windows_Processing_Server-->Python_Development_UI;
+## Sensor Simulator
 
-  click Windows_Simulator "https://github.com/Sense-Scape/Windows_Sensor_Sim" "Go to";
-  click ESP32_Acoustic_Sensor "https://github.com/Sense-Scape/Acoustic_Sensor_ESP32" "Go to";
-  click Windows_Processing_Server "https://github.com/Sense-Scape/Windows_Proc_Serv" "Go to";
-  click Python_Development_UI "https://github.com/Sense-Scape/Py_Dev_UI" "Go to";
-```
+## Acoustic Sensor
+
+## Processing Server
+
+## TCP Go Adapter
+
+## Web UI
+
+
+
+
+
