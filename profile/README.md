@@ -6,6 +6,8 @@ An audio streaming platform which receives data from multiple audio sensors, sto
 
 ## System Overview
 
+Note: press `ctrl` + `click` to open repositories
+
 ``` mermaid
 graph LR; 
 
