@@ -46,7 +46,7 @@ Get the most recent releases of the software components. Software releases may b
 
 Some come with config files and will require one to configure IP addresses and ports - The aim is that this shall come preconfigured but this is not complete at this point.
 
-If you are really feeling fancy you can take a look at [these]() simulations to see how this system should be able to detect boats from quite far away (If one chooses to submerge their micrphones). The simulations are a work in progress and may be altered at any point.
+If you are really feeling fancy you can take a look at [these](https://github.com/Sense-Scape/Python_Simulations/blob/main/PropogationModelling.ipynb) simulations to see how this system should be able to detect boats from quite far away (If one chooses to submerge their micrphones). The simulations are a work in progress and may be altered at any point.
 
 ## Organisation Summaries
 - Our [repositories](https://github.com/orgs/Sense-Scape/repositories)
