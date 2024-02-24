@@ -48,12 +48,11 @@ Some come with config files and will require one to configure IP addresses and p
 
 If you are really feeling fancy you can take a look at [these](https://github.com/Sense-Scape/Python_Simulations/blob/main/PropogationModelling.ipynb) simulations to see how this system should be able to detect boats from quite far away (If one chooses to submerge their micrphones). The simulations are a work in progress and may be altered at any point. Testing procedures and results shall be stored in [this](https://github.com/Sense-Scape/Testing_Docs/tree/main) repository with the raw WAV data from these tests stored in [this](https://mega.nz/folder/QqlXnC4D#bC72lV5hunTv-RFYAa51Kg) MEGA folder.
 
-## Feature Development
+## Feature Development Timeline
 
 ``` mermaid
 
 timeline
-    title Feature Development Timeline
     Milestone 1 : Simulator (Done) : Processing Server (Done) : Live Storage (Done) : Live UI (Done) : Hardware Prototype (Done) : Data Collection (Done)
     Milestone 2 : Playback : GPS Time Stamping : Handle Multiple HW : Verify-Design Mic Array : Data Collection : Expand Simulator
     Milestone 3 : Mechanicals (Housing, BMS) : SOAK Testing : Live GIS : Live Tracking
