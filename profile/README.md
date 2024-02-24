@@ -2,7 +2,8 @@
 
 ## Summary
 
-An audio streaming platform which receives data from multiple audio sensors, stores the data and forwards it to a pretty Svelte UI which shows time and frequency domain data
+Primarily a central place to keep all my work relating to acoustics - software, hardware, modelling and system design.
+It can also be described as an audio streaming platform which receives data from multiple audio sensors, stores the data and forwards it to a pretty Svelte UI which shows time and frequency domain data
 
 ## System Overview
 
