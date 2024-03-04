@@ -55,7 +55,7 @@ If you are really feeling fancy you can take a look at [these](https://github.co
 
 timeline
     Milestone 1 : Simulator (Done) : Processing Server (Done) : Live Storage (Done) : Live UI (Done) : Hardware Prototype (Done) : Data Collection (Done)
-    Milestone 2 : Full Linux Support (Done) : Fixed Installation (In Progress) : Playback : GPS (time, pos) : Handle Multiple HW : Verify-Design Mic Array : Data Collection
+    Milestone 2 : Full Linux Support (Done) : Fixed Installation (In Progress) : : Produce Design Mic Array (In Progress) : Playback : GPS (time, pos) : Handle Multiple HW : Data Collection
     Milestone 3 : Mechanicals (Housing, BMS) : SOAK Testing : Live GIS : Live Tracking
 
 ```
