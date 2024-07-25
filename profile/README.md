@@ -7,8 +7,6 @@ It can also be described as an audio streaming platform which receives data from
 
 ## System Overview
 
-Note: press `ctrl` + `click` to open repositories
-
 ``` mermaid
 graph LR; 
 
