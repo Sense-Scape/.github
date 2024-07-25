@@ -55,7 +55,7 @@ Contact me (Grant Norrie) on linkedin. I shall provide an RPi 3B + image. Flash 
 
 timeline
     Milestone 1 : Simulator (Done) : Processing Server (Done) : Live Storage (Done) : Live UI (Done) : Hardware Prototype (Done) : Data Collection (Done)
-    Milestone 2 : Full Linux Support (Done) : Playback (Done) : Fixed Installation (In Progress) : Produce Mic Array (In Progress)  : GPS (time, pos) (Done) : Handle Multiple HW (Done): Data Collection
+    Milestone 2 : Full Linux Support (Done) : Playback (Done) : Fixed Installation (Done) : Produce Mic Array (Done)  : GPS (time, pos) (Done) : Handle Multiple HW (Done): Data Collection
     Milestone 3 : Mechanicals (Housing, BMS) : SOAK Testing : Live GIS : Live Tracking
 
 ```
