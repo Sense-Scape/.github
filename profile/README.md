@@ -20,13 +20,6 @@ ProcessingServer --->GoTCPWebSocketAdapter
 ProcessingServer --> AudioStorage
 
 GoTCPWebSocketAdapter --->SvelteKitUI
-
-click AudioSensor1
-click AudioSensor2;
-click ProcessingServer
-click GoTCPWebSocketAdapter
-click SvelteKitUI
-
 ```
 
 - AudioSensor - RasperryPi with Respeaker array which transmits multiple channels of audio data
