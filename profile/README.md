@@ -21,12 +21,11 @@ ProcessingServer --> AudioStorage
 
 GoTCPWebSocketAdapter --->SvelteKitUI
 
-click AudioSensor1 "https://github.com/Sense-Scape/RPi_Sensor" "Go to";
-click AudioSensor2 "https://github.com/Sense-Scape/RPi_Sensor" "Go to";
-click AudioSimulator1 "https://github.com/Sense-Scape/Windows_Sensor_Sim" "Go to";
-click ProcessingServer "https://github.com/Sense-Scape/Windows_Proc_Serv" "Go to";
-click GoTCPWebSocketAdapter "https://github.com/Sense-Scape/Go_TCP_Websocket_Adapter" "Go to";
-click SvelteKitUI "https://github.com/Sense-Scape/Svelte-Website/" "Go to";
+click AudioSensor1
+click AudioSensor2;
+click ProcessingServer
+click GoTCPWebSocketAdapter
+click SvelteKitUI
 
 ```
 
