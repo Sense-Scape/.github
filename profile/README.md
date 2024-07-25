@@ -38,16 +38,16 @@ click SvelteKitUI "https://github.com/Sense-Scape/Svelte-Website/" "Go to";
 
 ## Getting Started
 
-Get the most recent releases of the software components. Software releases may be found here: 
+Contact me (Grant Norrie) on linkedin. I shall provide an RPi 3B + image. Flash this turn on the PI and it will automatically start recording all audio and provide a UI to see what is going on. Below is are examples of the UI:
 
-- [Windows Simulator](https://github.com/Sense-Scape/Windows_Sensor_Sim/) and its [releases](https://github.com/Sense-Scape/Windows_Sensor_Sim/releases)
-- [Processing Server](https://github.com/Sense-Scape/Windows_Proc_Serv/) and its [releases](https://github.com/Sense-Scape/Windows_Proc_Serv/releases)
-- [TCPPWebSocketAdapter](https://github.com/Sense-Scape/Go_TCP_Websocket_Adapter/) and its [releases](https://github.com/Sense-Scape/Go_TCP_Websocket_Adapter/releases)
-- [Svelte UI](https://github.com/Sense-Scape/Svelte-Website/) and its [releases](https://github.com/Sense-Scape/Svelte-Website/releases)
+### Live Data View
+![UI1](https://github.com/user-attachments/assets/0a83447b-699a-43c2-ab00-200057ca070a)
 
-Some come with config files and will require one to configure IP addresses and ports - The aim is that this shall come preconfigured but this is not complete at this point.
+### GPS Position View
+![UI2](https://github.com/user-attachments/assets/f106de36-b73f-4936-8048-982f3a0e6ec4)
 
-If you are really feeling fancy you can take a look at [these](https://github.com/Sense-Scape/Python_Simulations/blob/main/PropogationModelling.ipynb) simulations to see how this system should be able to detect boats from quite far away (If one chooses to submerge their micrphones). The simulations are a work in progress and may be altered at any point. Testing procedures and results shall be stored in [this](https://github.com/Sense-Scape/Testing_Docs/tree/main) repository with the raw WAV data from these tests stored in [this](https://mega.nz/folder/QqlXnC4D#bC72lV5hunTv-RFYAa51Kg) MEGA folder.
+### Stored Audio Files
+![UI3](https://github.com/user-attachments/assets/13481f1a-f830-4916-ad1b-252be7273274)
 
 ## Feature Development Timeline
 
@@ -59,12 +59,3 @@ timeline
     Milestone 3 : Mechanicals (Housing, BMS) : SOAK Testing : Live GIS : Live Tracking
 
 ```
-
-## Organisation Summaries
-- Our [repositories](https://github.com/orgs/Sense-Scape/repositories)
-- Our [documentation](https://github.com/Sense-Scape/.github) root directory
-- Our [System Outline](https://github.com/Sense-Scape/.github/blob/main/profile/System%20Outline.md) displays granular description of software interaction
-
-## Developer Docs
-- How we use  [Sub Modules](https://github.com/Sense-Scape/.github/blob/main/manuals/Sub%20Module%20Usage.md)
-- How we [transmit and receive](https://github.com/Sense-Scape/.github/blob/main/manuals/Chunk%20Tx%20Rx.md) Chunks between different processes
