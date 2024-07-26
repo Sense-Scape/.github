@@ -33,11 +33,17 @@ Contact me (Grant Norrie) on linkedin. I shall provide an RPi 3B + image. Flash 
 ### Live Data View
 ![UI1](https://github.com/user-attachments/assets/0a83447b-699a-43c2-ab00-200057ca070a)
 
+View multiple live or simulated data streams from multiple devices. System information is also propogated to the UI.
+
 ### GPS Position View
 ![UI2](https://github.com/user-attachments/assets/f106de36-b73f-4936-8048-982f3a0e6ec4)
 
+Multiple Sensor positions (set statically or using a live GPS position) may be sent to and displayed on a map.
+
 ### Stored Audio Files
 ![UI3](https://github.com/user-attachments/assets/13481f1a-f830-4916-ad1b-252be7273274)
+
+Audio files will be generated and written to a user specified location. In this case an external drive.
 
 ## Feature Development Timeline
 
@@ -46,6 +52,6 @@ Contact me (Grant Norrie) on linkedin. I shall provide an RPi 3B + image. Flash 
 timeline
     Milestone 1 : Simulator (Done) : Processing Server (Done) : Live Storage (Done) : Live UI (Done) : Hardware Prototype (Done) : Data Collection (Done)
     Milestone 2 : Full Linux Support (Done) : Playback (Done) : Fixed Installation (Done) : Produce Mic Array (Done)  : GPS (time, pos) (Done) : Handle Multiple HW (Done): Data Collection
-    Milestone 3 : Mechanicals (Housing, BMS) : SOAK Testing : Live GIS : Live Tracking
+    Milestone 3 : Mechanicals (Housing, BMS) : Soak Testing (In Progress) : Live GIS : Live Tracking
 
 ```
