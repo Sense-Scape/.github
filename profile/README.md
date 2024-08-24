@@ -52,6 +52,13 @@ Audio files will be generated and written to a user specified location. In this 
 timeline
     Milestone 1 : Simulator (Done) : Processing Server (Done) : Live Storage (Done) : Live UI (Done) : Hardware Prototype (Done) : Data Collection (Done)
     Milestone 2 : Full Linux Support (Done) : Playback (Done) : Fixed Installation (Done) : Produce Mic Array (Done)  : GPS (time, pos) (Done) : Handle Multiple HW (Done): Data Collection (In Progress)
-    Milestone 3 : Mechanicals (Housing, BMS) : Soak Testing (Done - Days!!!) : Live GIS : Live Tracking
+    Milestone 3 : Mechanicals (Housing, BMS) (In Progress) : Soak Testing (Done) : Live GIS : Live Tracking
 
 ```
+
+## SOAK Testing Results
+
+At least three days so far :)
+
+![image](https://github.com/user-attachments/assets/4357cde3-6e3f-42fb-b534-dc8093d59c0c)
+
