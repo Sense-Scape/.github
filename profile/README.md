@@ -52,7 +52,7 @@ Audio files will be generated and written to a user specified location. In this 
 timeline
     Milestone 1 : Simulator (Done) : Processing Server (Done) : Live Storage (Done) : Live UI (Done) : Hardware Prototype (Done) : Data Collection (Done)
     Milestone 2 : Full Linux Support (Done) : Playback (Done) : Fixed Installation (Done) : Produce Mic Array (Done)  : GPS (time, pos) (Done) : Handle Multiple HW (Done)
-    Milestone 3 : Mechanicals (Housing, BMS) (In Progress) : Soak Testing (Done) : Live GIS : Live Tracking : Data Collection (In Progress)
+    Milestone 3 : Mechanicals (Housing, BMS) (In Progress) : Soak Testing (Done) : Live GIS : Remote Deployment : Data Collection (In Progress)
     Milestone 4 : TDOA : Direction Finding : Multi Sensor Deployment
 
 ```
