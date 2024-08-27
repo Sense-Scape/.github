@@ -59,7 +59,8 @@ timeline
 
 ## SOAK Testing Results
 
-At least three days so far :)
+At least 5 days so far :)
 
-![image](https://github.com/user-attachments/assets/4357cde3-6e3f-42fb-b534-dc8093d59c0c)
+![image](https://github.com/user-attachments/assets/bc1a3696-2b62-4f99-b42b-78e7e15a678d)
+
 
