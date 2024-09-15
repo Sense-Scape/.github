@@ -59,8 +59,7 @@ timeline
 
 ## SOAK Testing Results
 
-At least 5 days so far :)
+Thanks @wolffshots for running this test - Almsot 10 days then the power supply got knocked :)
 
-![image](https://github.com/user-attachments/assets/bc1a3696-2b62-4f99-b42b-78e7e15a678d)
-
+![state](https://github.com/user-attachments/assets/4fd4cf89-c9ec-4f02-9d80-2687dc0bb9fe)
 
