@@ -6,9 +6,9 @@
 
 [System Overview](#system-overview)
 
-[Getting Started](#system-overview)
+[Getting Started](getting-started)
 
-[System Overview](#getting-started)
+[System Overview](#system-overview)
 
 [Feature Development Timeline](#feature-development-timeline)
 
