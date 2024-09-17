@@ -16,6 +16,8 @@
 
 [Analysis Tool](#analysis-tool)
 
+[Simulation Tool](#simulation-tool)
+
 ## Summary <a id='summary'></a>
 
 Primarily a central place to keep all my work relating to acoustics - software, hardware, modelling and system design.
@@ -82,3 +84,8 @@ Thanks @wolffshots for running this test - Almsot 10 days then the power supply 
 ## Analysis Tool <a id='analysis-tool'></a>
 
 ![image](https://github.com/user-attachments/assets/a291fa32-e309-4f22-92dc-7a0a0517091d)
+
+## Simulation Tool <a id='simulation-tool'></a>
+
+![image](https://github.com/user-attachments/assets/a60f390f-bf28-405d-b4df-99b001e7ba51)
+
