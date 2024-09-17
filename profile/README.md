@@ -77,7 +77,7 @@ timeline
 
 ## SOAK Testing Results <a id='soak-testing'></a>
 
-Thanks @wolffshots for running this test - Almsot 10 days then the power supply got knocked :)
+Thanks @wolffshots for running this test - Almost 10 days then the power supply got knocked :)
 
 ![state](https://github.com/user-attachments/assets/4fd4cf89-c9ec-4f02-9d80-2687dc0bb9fe)
 
