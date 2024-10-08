@@ -1,4 +1,4 @@
-# Sense-Scape
+![4e0ccd7e-6c5c-412c-84ba-0f0250fa754c](https://github.com/user-attachments/assets/0ecba5c6-e354-4986-a90c-1a4d73161728)# Sense-Scape
 
 ## Section Summary
 
@@ -70,8 +70,8 @@ Audio files will be generated and written to a user specified location. In this 
 timeline
     Milestone 1 : Simulator (Done) : Processing Server (Done) : Live Storage (Done) : Live UI (Done) : Hardware Prototype (Done) : Data Collection (Done)
     Milestone 2 : Full Linux Support (Done) : Playback (Done) : Fixed Installation (Done) : Produce Mic Array (Done)  : GPS (time, pos) (Done) : Handle Multiple HW (Done)
-    Milestone 3 : Mechanicals (Housing, BMS) (In Progress) : Soak Testing (Done) : Remote Deployment : Data Collection (In Progress) : BOM Generation (Done)
-    Milestone 4 : TDOA : Direction Finding : Multi Sensor Deployment : Live GIS
+    Milestone 3 : Mechanicals (Housing, BMS) (Done) : Soak Testing (Done) : Data Collection (Done) : BOM Generation (Done)
+    Milestone 4 : TDOA : Direction Finding : Multi Sensor Deployment : Live GIS : Remote Deployment
 
 ```
 
@@ -92,4 +92,11 @@ Summary: Pretty Pictures
 Summary: Math
 
 ![image](https://github.com/user-attachments/assets/a60f390f-bf28-405d-b4df-99b001e7ba51)
+
+## The Sensor
+
+Summary: ooooh, ahhhh, so fancy (but not really)
+
+![4e0ccd7e-6c5c-412c-84ba-0f0250fa754c](https://github.com/user-attachments/assets/4c8143ef-6a3e-480b-8d98-dbaa7b118c18)
+
 
