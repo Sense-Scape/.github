@@ -1,5 +1,3 @@
-![4e0ccd7e-6c5c-412c-84ba-0f0250fa754c](https://github.com/user-attachments/assets/0ecba5c6-e354-4986-a90c-1a4d73161728)# Sense-Scape
-
 ## Section Summary
 
 [Summary](#summary)
@@ -17,6 +15,8 @@
 [Analysis Tool](#analysis-tool)
 
 [Simulation Tool](#simulation-tool)
+
+[The Sensor](#the-Sensor)
 
 ## Summary <a id='summary'></a>
 
@@ -93,7 +93,7 @@ Summary: Math
 
 ![image](https://github.com/user-attachments/assets/a60f390f-bf28-405d-b4df-99b001e7ba51)
 
-## The Sensor
+## The Sensor <a id='the-sensor'></a>
 
 Summary: ooooh, ahhhh, so fancy (but not really)
 
