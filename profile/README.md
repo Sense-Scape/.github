@@ -32,6 +32,8 @@ AudioSensor1 ---> ProcessingServer
 AudioSensor2 ---> ProcessingServer
 AudioSimulator1 ---> ProcessingServer
 ProcessingServer ---> UI
+ProcessingServer ---> Storage
+Storage ---> AnalysisTools
 ```
 
 - AudioSensor - RasperryPi with Respeaker array which transmits multiple channels of audio data
