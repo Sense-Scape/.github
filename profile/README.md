@@ -31,11 +31,7 @@ graph LR;
 AudioSensor1 ---> ProcessingServer
 AudioSensor2 ---> ProcessingServer
 AudioSimulator1 ---> ProcessingServer
-
-ProcessingServer --->GoTCPWebSocketAdapter
-ProcessingServer --> AudioStorage
-
-GoTCPWebSocketAdapter --->SvelteKitUI
+ProcessingServer ---> UI
 ```
 
 - AudioSensor - RasperryPi with Respeaker array which transmits multiple channels of audio data
