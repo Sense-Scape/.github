@@ -39,8 +39,9 @@ Storage ---> AnalysisTools
 - AudioSensor - RasperryPi with Respeaker array which transmits multiple channels of audio data
 - AudioSimulator - Windows simullator which can generate multiple channels with a specific tone and phase offset
 - ProcessingServer - Server which hanfles multiple TCP connections from sensors, write their audio data as WAV and forwards it to the websocket converter
-- GoTCPWebSocketAdapter - Forwards data from server to web front end
-- SvelteKitUI - UI that displays sensor data
+- UI - Used to monitor system states, live audio streams and sensor positions
+- Storage - There will be data, lots of it
+- AnalysisTools - Modelling, simulation and spectral analysis
 
 ## Getting Started <a id='getting-started'></a>
 
