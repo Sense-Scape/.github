@@ -49,14 +49,21 @@ GoTCPWebSocketAdapter --->SvelteKitUI
 Contact me (Grant Norrie) on linkedin. I shall provide an RPi 3B + image. Flash this turn on the PI and it will automatically start recording all audio and provide a UI to see what is going on. Below is are examples of the UI:
 
 ### Live Data View
-![UI1](https://github.com/user-attachments/assets/0a83447b-699a-43c2-ab00-200057ca070a)
+![UI1](https://github.com/user-attachments/assets/349da6b3-53e2-4414-a929-9734ddffc4ff)
 
 View multiple live or simulated data streams from multiple devices. System information is also propogated to the UI.
 
 ### GPS Position View
-![UI2](https://github.com/user-attachments/assets/f106de36-b73f-4936-8048-982f3a0e6ec4)
+
+![UI2]![viewer3](https://github.com/user-attachments/assets/077cb4e3-76e9-475f-8945-7a2634b33076)
 
 Multiple Sensor positions (set statically or using a live GPS position) may be sent to and displayed on a map.
+
+### Reporting Functionality
+
+![UI2_0](https://github.com/user-attachments/assets/e4802f94-ccd8-4b64-808c-44f7b5901438)
+
+Remote monitoring at the sensor network level - but the sensors will never fail so nothing to worry about :)
 
 ### TDOA (In Developement)
 
@@ -78,7 +85,8 @@ timeline
     Milestone 1 : Simulator (Done) : Processing Server (Done) : Live Storage (Done) : Live UI (Done) : Hardware Prototype (Done) : Data Collection (Done)
     Milestone 2 : Full Linux Support (Done) : Playback (Done) : Fixed Installation (Done) : Produce Mic Array (Done)  : GPS (time, pos) (Done) : Handle Multiple HW (Done)
     Milestone 3 : Mechanicals (Housing, BMS) (Done) : Soak Testing (Done) : Data Collection (Done) : BOM Generation (Done)
-    Milestone 4 : TDOA (In Progress) : Direction Finding : Multi Sensor Deployment (In Progress) : Live GIS : Remote Deployment (In Progress)
+    Milestone 4 : TDOA (In Progress) : Direction Finding : Multi Sensor Deployment (Done) : Live GIS (Done) : Remote Deployment Configuration (Done)
+    Milestone 5 : Land Based Housing : Multi Sensor Soak Testing : Remote Comms Support : Land Based Power Supply
 
 ```
 
