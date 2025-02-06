@@ -45,7 +45,7 @@ Storage ---> AnalysisTools
 
 ## Getting Started <a id='getting-started'></a>
 
-Contact me (Grant Norrie) on linkedin. I shall provide an RPi 3B + image. Flash this turn on the PI and it will automatically start recording all audio and provide a UI to see what is going on. Below is are examples of the UI:
+Contact me (Grant Norrie) on linkedin if you want to chat.
 
 ### Live Data View
 ![UI1](https://github.com/user-attachments/assets/349da6b3-53e2-4414-a929-9734ddffc4ff)
