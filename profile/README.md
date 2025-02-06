@@ -110,8 +110,14 @@ Summary: Math
 
 ## The Sensor <a id='the-sensor'></a>
 
+### Submersible
+
 Summary: ooooh, ahhhh, so fancy (but not really)
 
 ![4e0ccd7e-6c5c-412c-84ba-0f0250fa754c](https://github.com/user-attachments/assets/4c8143ef-6a3e-480b-8d98-dbaa7b118c18)
+
+### The one who is scared of water
+
+Coming soon...
 
 
