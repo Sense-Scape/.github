@@ -21,7 +21,7 @@
 ## Summary <a id='summary'></a>
 
 Primarily a central place to keep all my work relating to acoustics - software, hardware, modelling and system design.
-It can also be described as an audio streaming platform which receives data from multiple audio sensors, stores the data and forwards it to a pretty Svelte UI which shows time and frequency domain data
+It can also be described as an audio streaming platform which receives data from multiple audio sensors, stores the data and forwards it to a pretty UI where one may see system information and live data
 
 ## System Overview <a id='system-overview'></a>
 
