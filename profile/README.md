@@ -60,7 +60,7 @@ Live data of me whistling from a sensor
 
 ### GPS Position View
 
-![UI2]![viewer3](https://github.com/user-attachments/assets/077cb4e3-76e9-475f-8945-7a2634b33076)
+![UI2](https://github.com/user-attachments/assets/077cb4e3-76e9-475f-8945-7a2634b33076)
 
 Multiple Sensor positions (set statically or using a live GPS position) may be sent to and displayed on a map.
 
