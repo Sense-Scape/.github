@@ -1,4 +1,4 @@
-## Section Summary
+![device-v1 1 0](https://github.com/user-attachments/assets/3e339b34-efb1-4ecc-bf2c-95836eab4bf1)## Section Summary
 
 [Summary](#summary)
 
@@ -123,6 +123,7 @@ Summary: ooooh, ahhhh, so fancy (but not really)
 
 ### The one who is scared of water
 
-Coming soon...
+![device-v1 1 0](https://github.com/user-attachments/assets/7188f584-418a-41ce-9dfe-5db234f4c9f1)
+
 
 
