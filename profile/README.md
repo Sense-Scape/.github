@@ -91,7 +91,7 @@ timeline
     Milestone 2 : Full Linux Support (Done) : Playback (Done) : Fixed Installation (Done) : Produce Mic Array (Done)  : GPS (time, pos) (Done) : Handle Multiple HW (Done)
     Milestone 3 : Mechanicals (Housing, BMS) (Done) : Soak Testing (Done) : Data Collection (Done) : BOM Generation (Done)
     Milestone 4 : TDOA (In Progress) : Direction Finding : Multi Sensor Deployment (Done) : Live GIS (Done) : Remote Deployment Configuration (Done)
-    Milestone 5 : Land Based Housing : Multi Sensor Soak Testing : Remote Comms Support : Land Based Power Supply
+    Milestone 5 : Land Based Housing (Done) : Multi Sensor Soak Testing : Remote Comms Support (Done) : Land Based Power Supply (In Progress) : ML Classification (In Progress)
 
 ```
 
