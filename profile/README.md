@@ -1,4 +1,4 @@
-![device-v1 1 0](https://github.com/user-attachments/assets/3e339b34-efb1-4ecc-bf2c-95836eab4bf1)## Section Summary
+## Section Summary
 
 [Summary](#summary)
 
